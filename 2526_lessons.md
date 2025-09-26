@@ -14,3 +14,4 @@
   - zvuky
   - změn efekt ... o ... 
 
+- sdílíme projekty do společného studia
