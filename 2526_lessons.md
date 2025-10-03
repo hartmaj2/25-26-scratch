@@ -14,4 +14,6 @@
   - zvuky
   - změn efekt ... o ... 
 
+- opakování - forever block
+
 - sdílíme projekty do společného studia
