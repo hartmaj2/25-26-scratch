@@ -49,3 +49,37 @@
 - reflexe
   - hezky energeticky a vtipně jsem mluvil
   - dobré, že jsem vymyslel bonusový úkol pro ty zkušené
+
+### 10.10.2025
+
+- hádanka na opakuj x-krát (který kód dovede kocoura k netopýrovi)
+
+- rekapitulace, co jsme dělali minule - crazy butterfly, opilý kocour atd.
+
+- práce na programu bludiště
+  - jak si vygenerovat bludiště a přidat ho do scratche
+  - zamyšlení: co zvládneme naprogramovat a co ještě ne?
+  - pohyb pomocí změny x a y
+    - vysvětlení souřadnic (jaké jsou meze scratch obrazovky)
+  - nastavení kocoura do počáteční polohy
+  - kolize se stěnou
+    - vysvětlení podmínek (chceme, aby kocour vzal klíč, ale jen když se ho dotýká)
+    - nejprve kocoura stěna rovnou zabije
+    - jak udělat, aby byly jen neprostupné, ale nezabily ho?
+  - přidání power upů
+    - čekej dokud nenastane
+
+- příště
+  - hádanka na ify
+    - if musí být ve foreveru, aby se něco dělo
+    - nezapnutý čekej dokud nenastane
+  - proměnná na XP
+  - klíč a dveře, které se otevřou
+  - chodící nepřátelé
+  - cíl (domeček)
+
+- reflexe
+  - zdůraznit, ať pracujeme všichni na tom stejném projektu (jinak by to fakt bylo těžké obcházet)
+  - na začátku zopakovat, co se dělo minule více, než jen hádankou (možná před hádankou dát to opakování, které ale nevyzradí hádanku)
+  - super je vysvětlit if a čekej dokud nenastane pomocí toho projektu ze studia nové koncepty (teoreticky tam ale nemít to po kliknutí na, ať se to zbytečně nekomplikuje)
+    - možná také přidat ovládání kocoura, jelikož hýbáním kocourem myší mně vždy ukáže jeho scénáře
