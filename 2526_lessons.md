@@ -83,3 +83,38 @@
   - na začátku zopakovat, co se dělo minule více, než jen hádankou (možná před hádankou dát to opakování, které ale nevyzradí hádanku)
   - super je vysvětlit if a čekej dokud nenastane pomocí toho projektu ze studia nové koncepty (teoreticky tam ale nemít to po kliknutí na, ať se to zbytečně nekomplikuje)
     - možná také přidat ovládání kocoura, jelikož hýbáním kocourem myší mně vždy ukáže jeho scénáře
+
+### 17.10.2025
+
+- hádanka - vločka a příkaz když
+
+- opakování, co jsme dělali naposledy
+  - souřadnice
+  - dotýkání zdi
+
+- vylepšování programu bludiště
+  - zbavujeme se trhaného pohybu
+  - přidáváme chodícího nepřítele 
+    - po dotyku s ním se objevujeme na startu
+  - přidáváme počítadlo XP a power upy, které XP zvyšují
+    - učíme se, jak fungují proměnné (příklad s penězi)
+  - sdílíme doposud vytvořené projekty do studia
+
+- příště
+  - hádanka na proměnné (nastavení rychlosti)
+  - naučit se používat zprávy
+  - použít zprávy k vytvoření otvíracích dveří
+  - přidat cílovou obrazovku a nějaké cílové efekty
+  - přidat zvuky
+  - opravit: znovu respawn power upů, když zemřeme
+
+- reflexe
+  - trhaný pohyb nebyl úplně dobře vysvětlený
+    - nějak lépe ukázat, co přesně se tam děje?
+  - je dobře uvádět koncepty opravdu jednodušše a hlavně ne více věcí naráz
+    - uvést jen proměnné a zprávy už ne je vlastně dobré
+    - u proměnných zatím nedělat nic složitého (jen je měnit, umět se ptát na jejich hodnotu až později)
+  - proměnné vysvětleny poměrně hezky pomocí příkladu
+    - vtipné je ukázat, že se dají nastavit na 197398374, nebo na -93894
+    - ukázat, jak se dá proměnná použít na nastavování rychlosti
+  - dobře, že jsme nasdíleli doposud vytvořené projekty do studia (motivace se neflákat)
