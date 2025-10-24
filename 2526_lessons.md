@@ -118,3 +118,23 @@
     - vtipné je ukázat, že se dají nastavit na 197398374, nebo na -93894
     - ukázat, jak se dá proměnná použít na nastavování rychlosti
   - dobře, že jsme nasdíleli doposud vytvořené projekty do studia (motivace se neflákat)
+
+### 24.10.2025
+
+- hádanka - proměnná na rychlost
+- dokončení bludiště
+  - přidáváme možnost zneškodnit nepřítele, když máme dostatek xp
+  - učíme se proto, jak se používají ve Scratchi zprávy
+  - zprávy použijeme i na otevření tajných dveří po sebrání klíče
+  - výherní obrazovka
+
+- příště
+  - hádanka na zprávy
+  - nějaká nová hra
+
+- reflexe
+  - byl to chaos, jelikož jsem řešil i různé technické problémy
+    - OndroviK nefungoval kód, který mi připadal správně
+    - Rikimu a OndroviT se neukládal Scratch projekt
+    - Míšovi nefungoval reprák
+  - závěr: je lepší mít vše precizně připravené, jinak je to trochu větší chaos
