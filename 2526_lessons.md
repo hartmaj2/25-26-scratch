@@ -138,3 +138,30 @@
     - Rikimu a OndroviT se neukládal Scratch projekt
     - Míšovi nefungoval reprák
   - závěr: je lepší mít vše precizně připravené, jinak je to trochu větší chaos
+
+### 31.10.2025
+
+- hádanka - je nutné chytat zprávu se správným jménem
+- ukázka nových bloků
+  - otázka
+  - odpověď
+  - jak spojit odpověď s nějakým jiným textem
+- cvičný program - simulátor otravného sourozence
+  - jak zkontrolovat, zda je odpověď: "pro slepičí kvoč"
+  - nekonečné opakování otázky, dokud odpověď není ta správná
+- program na vyprávění pohádky
+  - ukázka rozšíření - text na řeč
+  - uložit si více odpovědí zároveň
+
+- příště
+  - hádanka na otázku a odpověď
+  - dodělat pohádku
+
+- reflexe
+  - pozitiva
+    - celkově textový program děti velmi bavil (jak sourozenec, tak i pohádka)
+    - text na řeč byl pro děti velmi vtipný
+    - nahrávali jsme postupně své výtvory do studia
+  - negativa
+    - vysvětlení toho, jak funguje odpověď a otázka nebylo úplně ideální
+    - Kryštofovi jsem vysvětloval když...jinak... blok a také se mi nedařilo to ideálně vysvětlit
