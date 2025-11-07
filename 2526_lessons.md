@@ -165,3 +165,21 @@
   - negativa
     - vysvětlení toho, jak funguje odpověď a otázka nebylo úplně ideální
     - Kryštofovi jsem vysvětloval když...jinak... blok a také se mi nedařilo to ideálně vysvětlit
+
+## Listopad
+
+### 7.11.2025
+
+- hádanka
+  - dvě otázky a pouze jedna odpověd (problém)
+- práce na generátoru pohádek
+  - tvorba více proměnných na ukládání informací zadaných uživatelem
+- volitelné: program na matematické úlohy
+  - vtipné hlášky, když člověk odpoví špatně
+
+- příště
+  - odprezentovat výtvory
+  - pracovat na dalším programu
+
+- reflexe
+  - TODO: dopsat
