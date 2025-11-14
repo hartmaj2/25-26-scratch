@@ -181,5 +181,32 @@
   - odprezentovat výtvory
   - pracovat na dalším programu
 
+### 14.11.2025
+
+- hádanka
+  - zajíc a taco (proměnné, souřadnice a opakuj dokud nenastane)
+- sdílíme pohádky
+- začínáme tvořit skákačku (platformer)
+  - vyrábíme platformu
+  - přidáváme padání
+  - zastavujeme se při dotyku platformy, když platforma odjede, zase padáme
+  - pohyb kocoura do strany
+  - když kocour spadne úplně dolů, tak ho znovu teleportujeme nahoru
+- programujeme skákání
+- učíme se klonovat
+  - k čemu je to dobré (projekt s roboty, kteří se odrážejí od zdi)
+- používáme klonování pro vytvoření více platforem
+
+- příště
+  - spravit skákání
+  - upravit platformy, aby se klonovali na různých místech
+  - přidat game over či nějaký cíl hry 
+
 - reflexe
-  - TODO: dopsat
+  - Míša 
+    - hezky ho napadlo, že není dobré používat "dotýkáš se okraje", ale raději kontrolovat souřadnici y
+    - naprogramoval hezký asmr program s klony
+  - Ondra T.
+    - hezký nápad s tím, co dělat, když nám ujede platforma pod nohama
+  - Romča, Riki, Tobi
+    - mají zajímavé nápady a ptají se, když neví co a jak, to je dobře
