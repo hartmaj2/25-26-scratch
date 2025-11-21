@@ -210,3 +210,36 @@
     - hezký nápad s tím, co dělat, když nám ujede platforma pod nohama
   - Romča, Riki, Tobi
     - mají zajímavé nápady a ptají se, když neví co a jak, to je dobře
+
+### 21.11.2025
+
+- hádanka - vytváření klonů
+    - nezapomenout je ukázat
+    - také je možné, že se budou překrývat (vhodně klony rozmístit)
+    - [link](https://scratch.mit.edu/projects/1245996725/)
+
+- programujeme dále skákačku
+  - zakazujeme kocourovi odrážet se od vzduchu
+  - přidáváme balónky, které létají nahoru a my se jim musíme vyhnout
+  - způsobujeme, aby kocour padal pokud je ve vzduchu a má rychlost 0
+  - přidáváme hitbox
+  - přidáváme finální obrazovku (ještě ale úplně nefunguje)
+
+- sdílíme, co se nám zatím podařilo vytvořit do studia
+
+- příště
+  - dodělat skákačku
+    - opravit, aby kocour mohl proskočit platformou nahoru
+    - Riki - opravit to, aby platformy byly klony a ne jedna postava mnohokrát nakopírovaná
+    - dodělat finální obrazovku
+    - přidat nějaké body
+  - bonus ke skákačce - animace čepičky s vrtulkou
+  - začít pracovat na nové hře (co to asi bude?)
+
+- reflexe
+  - Riki, Romča - velmi aktivní a hodně toho věděli
+  - Tobi - ptal se na různé věci a často při ptaní se otázky najednou přišel na to, jak to vlastně udělat
+  - Míša - dobré nápady, hlásí se, zároveň pracuje na své hře s letadlem
+  - Ondra T. - sám není moc kreativní, ale poslouchá a snaží se
+  - Ondra K. - dělal něco úplně jiného, ale aspoň se zeptá, když neví
+  - Martin - málo se ptá
