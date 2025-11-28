@@ -243,3 +243,19 @@
   - Ondra T. - sám není moc kreativní, ale poslouchá a snaží se
   - Ondra K. - dělal něco úplně jiného, ale aspoň se zeptá, když neví
   - Martin - málo se ptá
+
+### 28.11.2025
+
+- volnější hodina
+- každý pracoval na vlastním projektu
+
+- Tobi
+  - hra s auty
+- Kryštof
+  - hra vyprávějící pohádku
+- Míša
+  - klikačka
+- Martin
+  - program na otázky
+- Riki
+  - undertale
