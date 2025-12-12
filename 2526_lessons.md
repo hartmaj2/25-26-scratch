@@ -277,3 +277,7 @@
   - hackerská klikačka (a bitcoin mining)
 - Míša
   - práce na hře zatáčka
+
+- příště
+  - připravit nějakou pěknou hádanku (pero, klony)
+  - pracujeme na hře zatáčka
