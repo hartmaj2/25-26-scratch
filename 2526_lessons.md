@@ -259,3 +259,19 @@
   - program na otázky
 - Riki
   - undertale
+
+### 12.12.2025
+
+- opět práce na vlastních projektech
+- kdo neměl nápad
+  - práce s perem ve Scratchi
+  - programování hry Zatáčka
+
+- Tobi
+  - přidání výběru z 9 různých aut do jeho hry
+- Kryštof
+  - kreslení všemožných útvarů s perem ve Scratchi
+- Ondra
+  - hackerská klikačka (a bitcoin mining)
+- Míša
+  - práce na hře zatáčka
