@@ -293,3 +293,6 @@
 - Romča - hra s letadlem, které za sebou dělá kouřovou čáru
   - dlouho jsme hledali chybu, proč detekujeme dotek barvy (hráč se obtiskával na zem a detekoval sám svou barvu)
 - Míša - přidání zrychlovacích bonusů
+
+- příště
+  - doděláváme hru zatáčka
