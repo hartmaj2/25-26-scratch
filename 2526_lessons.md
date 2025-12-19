@@ -281,3 +281,15 @@
 - příště
   - připravit nějakou pěknou hádanku (pero, klony)
   - pracujeme na hře zatáčka
+
+### 19.12.2025
+
+- práce na hře zatáčka
+  - ovládání hráče
+  - kreslení čáry za hráčem
+  - přidání bonusů zrychlení atd. 
+
+- Tobi - závodní hra s auty a závodním okruhem
+- Romča - hra s letadlem, které za sebou dělá kouřovou čáru
+  - dlouho jsme hledali chybu, proč detekujeme dotek barvy (hráč se obtiskával na zem a detekoval sám svou barvu)
+- Míša - přidání zrychlovacích bonusů
