@@ -296,3 +296,17 @@
 
 - příště
   - doděláváme hru zatáčka
+
+## Leden
+
+### 9.1.2026
+
+- tvoříme hru zamlať krtka
+  - vyrábíme postavu
+  - střídavě ukazujeme a schováváme postavu
+  - po kliknutí na ni ji schováme a opět po náhodné době ukážeme
+
+- příště
+  - doděláme hru zamlať krtka
+  - ukážeme si, kdo co vytvořil
+  - přidáme zvuky
