@@ -310,3 +310,31 @@
   - doděláme hru zamlať krtka
   - ukážeme si, kdo co vytvořil
   - přidáme zvuky
+  
+### 16.1.2026
+
+- doděláváme hru zamlať krtka
+
+- Riki
+  - opravení bugů ve staré verzi
+  - přidání zvuků
+
+- Martin
+  - přidání pozadí do hry
+  - vylepšení ořezání headcrabů pomocí photoroom background removeru
+  - přidání zvuků do hry
+
+- Míša
+  - práce na vlastní hře
+
+- Kryštof
+  - práce na hře s kreslícím kocourem 
+  - přidáváme na konec zvuk výstřelu a hrobeček (finální obrazovka)
+
+- ukazujeme si, jak fungují zvuky
+  - co je to zvuk, frekvence atd.
+  - jak zní vyšší vs nižší frekvence
+  - jak se dají spouštět různé tóny ve Scratchi
+
+- příšě
+  - nová hra - Riki by hodně chtěl pokemony
