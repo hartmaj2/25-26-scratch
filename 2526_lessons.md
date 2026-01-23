@@ -338,3 +338,29 @@
 
 - příšě
   - nová hra - Riki by hodně chtěl pokemony
+
+### 23.1.2026
+
+- základy elektronických obvodů
+- co je to elektřina
+- jak fungují AAA baterie a jak jich zkombinovat více pro získání většího napětí
+  - rozsvěcení světýlka
+  - pohánění motorku
+- používání tlačítka pro ovládání elektrického obvodu
+
+- práce s microbitem
+  - příhlášení do Make Code
+  - tvorba prvního projektu
+  - nahráváme první program do microbitu
+
+- příště
+  - opakování základů práce s elektrickými obvody
+  - používáme microbit pro ovládání světýlek
+
+- reflexe
+  - pozitiva
+    - děti to velmi bavilo - chtějí pokračovat s microbity
+    - experimentální přístup - často jsem je učil, aby si sami přišli na to, jak se daná věc udělá
+  - negativa
+    - odpálili jsme diody a došlo ke smradlavému zkratu (3 baterie a hodně diod paralelně)
+    - Romča mi zohýbal diody (bylo by lepší se k nim chovat slušněji)
