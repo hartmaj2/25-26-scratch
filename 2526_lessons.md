@@ -364,3 +364,16 @@
   - negativa
     - odpálili jsme diody a došlo ke smradlavému zkratu (3 baterie a hodně diod paralelně)
     - Romča mi zohýbal diody (bylo by lepší se k nim chovat slušněji)
+
+## Únor
+
+### 6.2.2026
+
+- opakujeme si, jak fungují elektrické obvody
+  - k čemu je breadboard
+  - jak použít battery pak k rozsvícení led diody
+  - hrajeme si s potenciometrem 
+
+- programujeme microbit
+  - problikávání dvou obrázků
+  - kámen nůžky papír
