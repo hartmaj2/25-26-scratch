@@ -377,3 +377,25 @@
 - programujeme microbit
   - problikávání dvou obrázků
   - kámen nůžky papír
+
+### 13.2.2026
+
+- tiskneme své jméno na displej microbitu
+- posíláme zprávy skrze rádio
+  - nejprve text
+  - poté čísla
+- programujeme kostku
+- vytváříme program ve kterém si můžeme volit komunikační kanál rádia pomocí tlačítek
+
+- začínáme pracovat na hře pomocí game příkazů (sprite atd.)
+
+- příště
+  - pracujeme na microbit hře na 5x5 displeji (nerostoucí snake)
+  - teoreticky zapojit motory (to by bylo potřeba se naučit s relé a použít battery pack)
+
+- reflexe
+  - děti to celkově bavilo
+  - Romča - byl velmi šikovný, sám vytvořil odpočet a dokonce to zakomponoval do přijetí zprávy
+  - Míša - tvořivý a hezky přišel na to, jak měnit ty zprávy
+  - Riki - přišel s vlastním microbitem a má dobré nápady
+  - Kryštof - tomu to jde hůře a je vidět, že tomu moc nerozumí, ale snaží se
