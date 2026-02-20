@@ -399,3 +399,25 @@
   - Míša - tvořivý a hezky přišel na to, jak měnit ty zprávy
   - Riki - přišel s vlastním microbitem a má dobré nápady
   - Kryštof - tomu to jde hůře a je vidět, že tomu moc nerozumí, ale snaží se
+
+### 20.2.2026
+
+- Míšův kahoot na začátek
+- vytváříme hru Zombie Shooter ve scratchi
+  - koukání postavy směrem k myši
+  - pohyb pomocí šipek či WASD
+  - střílení pomocí klonů
+
+- ukazujeme si, jak odstranit pozadí z obrázků
+
+- příště
+  - pracujeme dále na zombie shooterovi
+    - nepřátelé
+    - počítadlo skóre
+    - power upy
+
+- reflexe
+  - Romča - dělá hru z bočního pohledu
+  - Míša a Kryštof - dlouho jim trvá dělat postavičky, ale pracují ve Scratchi
+  - Riki - dodělal hru velice rychle (opice co střílí banány)
+  - Martin - kooperoval s ChatGPT, ale často nevěděl, které příkazy ta GPT myslí
