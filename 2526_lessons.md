@@ -421,3 +421,18 @@
   - Míša a Kryštof - dlouho jim trvá dělat postavičky, ale pracují ve Scratchi
   - Riki - dodělal hru velice rychle (opice co střílí banány)
   - Martin - kooperoval s ChatGPT, ale často nevěděl, které příkazy ta GPT myslí
+
+## Březen
+
+### 6.3.2026
+
+- zprvu nefungoval Scratch
+- místo toho ukazuji dětem CodeCombat - výuková hra na programovací jazyk Python
+- Romča - nechal jsem ho pracovat na svém levelu v RobloxStudiu
+- po zprovoznění Scratche pokračujeme ve hře zombie shooter
+  - střílení kulek a jejich mizení po nárazu do okraje
+  - mizení zombíků, když narazí do kulky
+
+- příště
+  - dodělat střílečku
+  - něco interaktivního (binary cards, lego hra)
