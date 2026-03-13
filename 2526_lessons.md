@@ -436,3 +436,14 @@
 - příště
   - dodělat střílečku
   - něco interaktivního (binary cards, lego hra)
+
+### 13.3.2026
+
+- Riki - hádanková hra se stonožkou
+- Romča - pracuje na hře dino jumper (ale s potápěčem)
+- Míša - hra, která simuluje error na windowsech
+- Martin - hra s hitmanem
+
+- příště
+  - pracujeme dále na hrách
+  - případně společně na něčem hromadném (to by bylo asi lepší, nebo lego)
