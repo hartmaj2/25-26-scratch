@@ -447,3 +447,33 @@
 - příště
   - pracujeme dále na hrách
   - případně společně na něčem hromadném (to by bylo asi lepší, nebo lego)
+
+### 20.3.2026
+
+- společný program - tvoříme hru obrana základny
+  - pohyb postavičky nahoru/dolů
+  - zeď na detekci nárazů nepřátel
+
+- Riki - hádanková hra, na konci hodiny ukazuje své programy na projektoru
+- Kryštof - doděláváme hru z minula
+  - náhodné umísťování nepřátel do rohů obrazovky
+  - zjevování krabicí s náboji
+  - životy hráče a kontrola, zda hráč žije
+- Romča - hra s potápěčem
+  - vytváření game over obrazovky (postupné začernění pomocí ghost effectu)
+- Ondra - obrana základny, už má funkční základ obchodu 
+- Martin a Míša - pracují také na obraně základny, zatím jen pohyb hráče a zeď na detekování nepřátel
+
+- příště
+  - přidáváme nepřátele
+  - následně střelbu
+  - zbrovozníme obchod
+
+- reflexe
+  - všichni se hezky zapojovali
+  - Riki - na konci ukázal své hry, které byly moc povedené
+  - Kryštof - hodně se ptá, ale někdy až moc
+    - řekl jsem mu, ať zkusí ty věci občas už třeba vymyslet podle toho, co už jsme vytvořili a pak občas na něco přišel sám a ani jsem mu nemusel radit
+  - Romča - pracoval na svém programu, ale občas se i na něco zeptal za což jsem rád
+  - Ondra - po dlouhé době zase přišel a byl aktivní
+  - Martin, Míša - pracovali na společném programu
