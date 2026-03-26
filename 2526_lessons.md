@@ -467,7 +467,7 @@
 - příště
   - přidáváme nepřátele
   - následně střelbu
-  - zbrovozníme obchod
+  - zprovozníme obchod
 
 - reflexe
   - všichni se hezky zapojovali
