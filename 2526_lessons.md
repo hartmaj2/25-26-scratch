@@ -477,3 +477,41 @@
   - Romča - pracoval na svém programu, ale občas se i na něco zeptal za což jsem rád
   - Ondra - po dlouhé době zase přišel a byl aktivní
   - Martin, Míša - pracovali na společném programu
+
+### 27.3.2026
+
+- práce na hře obrana základny
+
+- Míša
+  - práce na své hře, vylepšování menu a pak rozpohybování nepřátel
+  - jednotlivé vlny nepřátel pomocí času
+
+- Kryštof
+  - vysvětlujeme si pohyb pomocí opakuj stále
+  - zprovozňujeme nepřítele, který se objeví na náhodné pozici po naražení do barikády
+
+- Romča
+  - základ hry hotový (možná ještě nemá střílení)
+  - náhodná rychlost pohybu nepřátel
+  - pěkná animace, když hráč prohraje
+    - na konci zamezujeme, aby se ta animace přehrávala vícekrát
+
+- Riki 
+  - zvládl v podstatě dodělat celý základ hry (hráč, nepřátelé, střely)
+  - chybí mu ještě dodělat obchod a pak přidat třeba turrety
+
+- příště
+  - začneme vytvářet obchod a v něm upgrady
+
+- reflexe
+  - Míša
+    - málo se ptá a často dělá něco jiného, než by měl
+    - bude potřeba ho nějak usměrnit, aby byl více soustředěný na konkrétní cíl 
+  - Kryštof
+    - chápe věci trochu pomaleji, ale už začíná být samostatnější
+    - je dobré, že se hodně ptá
+  - Romča
+    - je hodně samostatný, ale občas se na něco zeptá
+    - rád dělá animace a hodně si pohrává s vizuálem hry
+  - Riki
+    - pracoval na hře celou dobu, ale hodně času tráví spíš nad tím, aby to bylo vtipné, než aby byla ta hra funkčně zajímavá
