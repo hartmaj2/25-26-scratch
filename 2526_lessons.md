@@ -515,3 +515,36 @@
     - rád dělá animace a hodně si pohrává s vizuálem hry
   - Riki
     - pracoval na hře celou dobu, ale hodně času tráví spíš nad tím, aby to bylo vtipné, než aby byla ta hra funkčně zajímavá
+
+## Duben
+
+### 10.4.2026
+
+- programujeme dále base defense
+  - každý dělá to, co mu zrovna chybí
+  - střelba
+
+- Martin
+  - začal programovat cookie clickera
+
+- Romča
+  - začína programovat menu
+
+- Ondra
+  - různé kostýmy pro zombíky
+  - střelba
+
+- Kryštof
+  - opravujeme kód klonů vs hlavního týpka
+  - hudba do hry
+
+- Míša
+  - střelba
+
+- Riki
+  - přidal upgrade na, který nám přidá pomocníka
+
+- sdílíme hry do studia
+
+- příště
+  - už dodělat tu hru a nasdílet ji do studia
