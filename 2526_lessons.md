@@ -548,3 +548,6 @@
 
 - příště
   - už dodělat tu hru a nasdílet ji do studia
+  - začneme práci se seznamy
+    - MOTIVACE: podle aktuálního levelu vypustit daný počet nepřátel
+    - CVIČENÍ: hra od [VB](https://scratch.mit.edu/projects/915814226/)
