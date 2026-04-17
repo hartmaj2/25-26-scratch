@@ -551,3 +551,23 @@
   - začneme práci se seznamy
     - MOTIVACE: podle aktuálního levelu vypustit daný počet nepřátel
     - CVIČENÍ: hra od [VB](https://scratch.mit.edu/projects/915814226/)
+
+### 17.4.2026
+
+- ukazujeme si, k čemu jsou dobré seznamy
+
+- základní práce se seznamy
+  - přidávání prvků
+  - odebírání prvků
+- zjišťujeme, jaké je omezení na počet prvků v seznamu
+
+- Ondra
+  - práce na base defense
+  - zprovozňujeme nákup nábojů
+  - zamezujeme pohybu nepřátel, pokud jsme v shopu
+
+- Riki
+  - base defense - přidání miny
+
+- Míša
+  - upravuje svojí clicker hru
