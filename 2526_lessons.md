@@ -571,3 +571,24 @@
 
 - Míša
   - upravuje svojí clicker hru
+
+### 24.4.2026
+
+- pracujeme dále na vlastních projektech
+
+- 15 minut přestávka na hru neal.fun/not-a-robot/
+
+- Míša
+  - práce se seznamem v jeho hře (inventář do kterého lze dokoupit předmět)
+
+- Ondra
+  - přidáváme ničitelné zdi do hry
+
+- Riki
+  - dodělal svou hru s kamenolomem
+  - tři různé konce hry (cílem je objevit všechny konce)
+
+- posledních 10 minut hrajeme GeoGuesser
+
+- příště
+  - pracujeme na vlastních projektech till the finish???
