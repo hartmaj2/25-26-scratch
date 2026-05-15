@@ -592,3 +592,24 @@
 
 - příště
   - pracujeme na vlastních projektech till the finish???
+
+## Květen
+
+### 15.5.2026
+
+- Riki
+  - práce na vlastní hře (kopie hry FNF Vs. Huggy Wuggy - Playtime)
+  - hráč musí stiskávat ve správném rytmu správné šipky
+
+- s ostatními programujeme obchod
+  - základní práce se seznamy ve Scratchi
+    - přidání prvku
+    - odebrání prvku
+    - zjištění, zda seznam obsahuje daný prvek
+  - přidání náhodného předmětu do nákupního seznamu
+  - kontrolovat, zda jsme klikli na předmět, který je v nákupním seznamu
+
+- ukazujeme, co se nám doposud podařilo vytvořit
+
+- příště
+  - pracujeme dále na obchodu
