@@ -613,3 +613,30 @@
 
 - příště
   - pracujeme dále na obchodu
+
+### 22.5.2026
+
+
+- hádanka s tlačítkem, které mizí hned po kliknutí (jak mu nastavit pozici?)
+
+- pracujeme na hře s obchodem
+
+- Míša
+  - obchod Elona muska
+  - hráč může kupovat Google, Apple, mars a další věci
+  - kontrola, zda klikáme na prvek ze seznamu
+
+- Romča
+  - přidání regálů
+  - použití čekej dokud nenastane - kontrola, zda je seznam prázdný
+
+- Riki - hra s tankem 
+  - hráč vidí z okýnka a střílí na nepřátelské tanky
+  - animace deště
+
+- příště
+  - Riki - zprovoznit střelbu a postupné přidávání nepřátel
+    - budou nepřátelé moci ubrat životy hráči?
+  - Romča - dofinišovat hru
+    - kdyžtak pracovat na hře s tanky
+  - Míša - zprovoznit spouštěcí tlačítko
