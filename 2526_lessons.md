@@ -640,3 +640,18 @@
   - Romča - dofinišovat hru
     - kdyžtak pracovat na hře s tanky
   - Míša - zprovoznit spouštěcí tlačítko
+
+### 29.5.2026
+
+- Riki - finišujeme hru s tanky
+  - přidání animace střelby z děla a kulometu
+  - přidání životů a časovaná střelba enemáků
+  - opravujeme, aby se detekovala střela do tanku přesně při zaznění výstřelu
+
+- Míša - pracujeme na obchodu
+  - opravujeme detekci, zda je předmět v seznamu
+  - zprovozňujeme ukázání fajfky nebo křížku (správně/špatně)
+
+- příště
+  - Míša - opravit finish tlačítko
+  - Riki - opravit střelbu na enemáka (když ho přejedeme během hraní zvuku kulometu, tak umře)
