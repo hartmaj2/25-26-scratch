@@ -655,3 +655,26 @@
 - příště
   - Míša - opravit finish tlačítko
   - Riki - opravit střelbu na enemáka (když ho přejedeme během hraní zvuku kulometu, tak umře)
+
+## Červen
+
+### 5.6.2026
+
+- všichni - ukazuji, jak fungují Scratch addons
+- ukazujeme si stavy hry pomocí šipek a bublinek
+
+- Riki - dodělání hry s tanky
+  - opravení střelby kulometu
+  - hraní svých starších her, které jsme během roku vytvořili
+
+- Martin - crowbar clicker
+
+- Romča - dodělání hry obchod
+  - postupné zvyšování levelů
+
+- Míša - dodělávání obchodu
+  - přejmenovávání zpráv na pochopitelnější názvy
+  - oprava vizuálních detailů
+
+- Kryštof - obchod
+  - počáteční obrazovka s pravidly
